@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/alaguna/Projects/Parallax/Prallax/Content/background.png</File>
+    <File>/home/alaguna/Projects/Parallax/Prallax/Content/backgroundSong.wav</File>
+    <File>/home/alaguna/Projects/Parallax/Prallax/Content/blop.mp3</File>
+    <File>/home/alaguna/Projects/Parallax/Prallax/Content/city.png</File>
+    <File>/home/alaguna/Projects/Parallax/Prallax/Content/clouds.png</File>
+    <File>/home/alaguna/Projects/Parallax/Prallax/Content/enemy.png</File>
+    <File>/home/alaguna/Projects/Parallax/Prallax/Content/floor.png</File>
+    <File>/home/alaguna/Projects/Parallax/Prallax/Content/gameover.png</File>
+    <File>/home/alaguna/Projects/Parallax/Prallax/Content/heart.png</File>
+    <File>/home/alaguna/Projects/Parallax/Prallax/Content/instructions.png</File>
+    <File>/home/alaguna/Projects/Parallax/Prallax/Content/pause.png</File>
+    <File>/home/alaguna/Projects/Parallax/Prallax/Content/plane.png</File>
+    <File>/home/alaguna/Projects/Parallax/Prallax/Content/shoot.mp3</File>
+    <File>/home/alaguna/Projects/Parallax/Prallax/Content/Ubuntu.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
