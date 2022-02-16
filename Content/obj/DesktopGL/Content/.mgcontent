@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Personal Projects/Parallax/Content/Arial.spritefont</File>
+    <File>D:/Personal Projects/Parallax/Content/background.png</File>
+    <File>D:/Personal Projects/Parallax/Content/backgroundSong.wav</File>
+    <File>D:/Personal Projects/Parallax/Content/blop.mp3</File>
+    <File>D:/Personal Projects/Parallax/Content/city.png</File>
+    <File>D:/Personal Projects/Parallax/Content/clouds.png</File>
+    <File>D:/Personal Projects/Parallax/Content/enemy.png</File>
+    <File>D:/Personal Projects/Parallax/Content/floor.png</File>
+    <File>D:/Personal Projects/Parallax/Content/gameover.png</File>
+    <File>D:/Personal Projects/Parallax/Content/heart.png</File>
+    <File>D:/Personal Projects/Parallax/Content/instructions.png</File>
+    <File>D:/Personal Projects/Parallax/Content/pause.png</File>
+    <File>D:/Personal Projects/Parallax/Content/plane.png</File>
+    <File>D:/Personal Projects/Parallax/Content/shoot.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

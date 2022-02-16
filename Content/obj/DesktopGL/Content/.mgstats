@@ -1,0 +1,15 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Personal Projects/Parallax/Content/Arial.spritefont","D:/Personal Projects/Parallax/Content/bin/DesktopGL/Content/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",2005,21538,0.1975247
+"D:/Personal Projects/Parallax/Content/background.png","D:/Personal Projects/Parallax/Content/bin/DesktopGL/Content/background.xnb","TextureProcessor","Texture2DContent",55662,8294485,0.2529362
+"D:/Personal Projects/Parallax/Content/backgroundSong.wav","D:/Personal Projects/Parallax/Content/bin/DesktopGL/Content/backgroundSong.xnb","SongProcessor","SongContent",34214478,132,3.958643
+"D:/Personal Projects/Parallax/Content/blop.mp3","D:/Personal Projects/Parallax/Content/bin/DesktopGL/Content/blop.xnb","SoundEffectProcessor","SoundEffectContent",1992,46373,1.2197205
+"D:/Personal Projects/Parallax/Content/city.png","D:/Personal Projects/Parallax/Content/bin/DesktopGL/Content/city.xnb","TextureProcessor","Texture2DContent",146753,8294485,0.2615016
+"D:/Personal Projects/Parallax/Content/clouds.png","D:/Personal Projects/Parallax/Content/bin/DesktopGL/Content/clouds.xnb","TextureProcessor","Texture2DContent",89454,8303125,0.2522471
+"D:/Personal Projects/Parallax/Content/enemy.png","D:/Personal Projects/Parallax/Content/bin/DesktopGL/Content/enemy.xnb","TextureProcessor","Texture2DContent",9987,640085,0.0147316
+"D:/Personal Projects/Parallax/Content/floor.png","D:/Personal Projects/Parallax/Content/bin/DesktopGL/Content/floor.xnb","TextureProcessor","Texture2DContent",225087,8294485,0.2163542
+"D:/Personal Projects/Parallax/Content/gameover.png","D:/Personal Projects/Parallax/Content/bin/DesktopGL/Content/gameover.xnb","TextureProcessor","Texture2DContent",124236,8294485,0.2065327
+"D:/Personal Projects/Parallax/Content/heart.png","D:/Personal Projects/Parallax/Content/bin/DesktopGL/Content/heart.xnb","TextureProcessor","Texture2DContent",657792,5157517,0.1399907
+"D:/Personal Projects/Parallax/Content/instructions.png","D:/Personal Projects/Parallax/Content/bin/DesktopGL/Content/instructions.xnb","TextureProcessor","Texture2DContent",258986,8294485,0.2630772
+"D:/Personal Projects/Parallax/Content/pause.png","D:/Personal Projects/Parallax/Content/bin/DesktopGL/Content/pause.xnb","TextureProcessor","Texture2DContent",125940,8294485,0.2103273
+"D:/Personal Projects/Parallax/Content/plane.png","D:/Personal Projects/Parallax/Content/bin/DesktopGL/Content/plane.xnb","TextureProcessor","Texture2DContent",386254,3147157,0.0948421
+"D:/Personal Projects/Parallax/Content/shoot.mp3","D:/Personal Projects/Parallax/Content/bin/DesktopGL/Content/shoot.xnb","SoundEffectProcessor","SoundEffectContent",6136,50981,1.2328277
